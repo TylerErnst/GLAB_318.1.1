@@ -1,0 +1,23 @@
+{
+  "name": "glab_318.1.1",
+  "version": "1.0.0",
+  "description": "A sample project demonstrating the functionality of Node and npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerErnst/GLAB_318.1.1.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerErnst/GLAB_318.1.1/issues"
+  },
+  "homepage": "https://github.com/TylerErnst/GLAB_318.1.1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
